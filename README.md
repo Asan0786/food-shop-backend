@@ -24,14 +24,13 @@ git clone https://github.com/Asan0786/food-shop-backend.git
 cd food-shop-backend
 
 3. Run the application:
-mvn spring-boot:run
+mvnw spring-boot:run
 
 ## 🌐 API Base URL
 http://localhost:8080
 
 
-#Author
-Asan
+
 
 ## 👨‍💻 Author
-Your Name
+Asan
